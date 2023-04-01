@@ -1,5 +1,5 @@
 body{
-    background:lightgreen;
+    background:#024554;
     font-family:serif;
 }
 
@@ -8,16 +8,21 @@ body{
     display:flex;
     padding: 10px;
     margin:10px;
-    background: lightgray
+    background: #C2C0A6;
+    border-radius: 20px;
 }
 
 .assignment img
 {
     width: 200px;
     padding: 10px;
+    border: 2px solid
 }
 
 h1{
+    color: #6A8C69;
     text-align:center;
-    color: violet;
+}
+h2{
+    color: #024554;
 }
