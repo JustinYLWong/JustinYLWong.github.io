@@ -26,3 +26,6 @@ h1{
 h2{
     color: #024554;
 }
+a:hover {
+    color:white;
+}
